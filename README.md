@@ -13,8 +13,8 @@
 
 ## Technologies Used
 - **Java (Swing/AWT for UI Development)**
-- **MS Access (for local data storage, if applicable)**
-- **JDBC (for database interactions, if used)**
+- **MS Access (for local data storage)**
+- **JDBC-ODBC (for database interactions)**
 
 ## Usage
 1. **Launch the application** and navigate through the available options.
